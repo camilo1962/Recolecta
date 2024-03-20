@@ -1,0 +1,12 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/ART/Graphics/ui atlas.tpsheet
+- Assets/ART/Spine2D resources/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/ART/Graphics/ui atlas.png
+- Assets/ART/Spine2D resources/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- Assets/ART/Spine2D resources/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

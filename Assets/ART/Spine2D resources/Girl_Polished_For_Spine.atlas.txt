@@ -1,0 +1,181 @@
+
+Girl_Polished_For_Spine.png
+size: 2013,1256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L_1
+  rotate: true
+  xy: 2, 26
+  size: 336, 551
+  orig: 352, 659
+  offset: 15, 27
+  index: -1
+Arm_L_2
+  rotate: true
+  xy: 1771, 11
+  size: 142, 223
+  orig: 144, 225
+  offset: 1, 1
+  index: -1
+Arm_R_1
+  rotate: false
+  xy: 1037, 5
+  size: 272, 600
+  orig: 281, 607
+  offset: 8, 6
+  index: -1
+Arm_R_2
+  rotate: false
+  xy: 984, 607
+  size: 466, 647
+  orig: 469, 649
+  offset: 1, 1
+  index: -1
+Body
+  rotate: false
+  xy: 2, 364
+  size: 486, 890
+  orig: 496, 925
+  offset: 10, 0
+  index: -1
+Collar
+  rotate: true
+  xy: 718, 39
+  size: 323, 317
+  orig: 326, 322
+  offset: 1, 1
+  index: -1
+Collar_Cover
+  rotate: false
+  xy: 1889, 582
+  size: 91, 218
+  orig: 104, 223
+  offset: 11, 1
+  index: -1
+Eye_1
+  rotate: true
+  xy: 1940, 944
+  size: 60, 62
+  orig: 64, 64
+  offset: 2, 1
+  index: -1
+Eye_2
+  rotate: true
+  xy: 1940, 944
+  size: 60, 62
+  orig: 64, 64
+  offset: 2, 1
+  index: -1
+Eye_L_Closed
+  rotate: true
+  xy: 803, 374
+  size: 170, 131
+  orig: 207, 166
+  offset: 25, 21
+  index: -1
+Eye_R_Closed
+  rotate: true
+  xy: 1445, 386
+  size: 181, 129
+  orig: 191, 131
+  offset: 1, 1
+  index: -1
+Eye_Shut_1
+  rotate: true
+  xy: 936, 378
+  size: 166, 95
+  orig: 170, 97
+  offset: 1, 1
+  index: -1
+Eye_Shut_2
+  rotate: true
+  xy: 1889, 802
+  size: 140, 100
+  orig: 143, 102
+  offset: 1, 1
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 718, 2
+  size: 129, 35
+  orig: 131, 37
+  offset: 1, 1
+  index: -1
+Hand_L
+  rotate: false
+  xy: 1311, 56
+  size: 195, 294
+  orig: 195, 295
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 490, 364
+  size: 180, 311
+  orig: 180, 311
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 490, 546
+  size: 492, 708
+  orig: 492, 718
+  offset: 0, 10
+  index: -1
+Mouth
+  rotate: true
+  xy: 1940, 1125
+  size: 129, 71
+  orig: 139, 71
+  offset: 0, 0
+  index: -1
+Mouth_2
+  rotate: true
+  xy: 1940, 1006
+  size: 117, 71
+  orig: 117, 71
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 1452, 971
+  size: 283, 486
+  orig: 334, 490
+  offset: 50, 2
+  index: -1
+Pony_Hair
+  rotate: false
+  xy: 555, 32
+  size: 161, 330
+  orig: 161, 330
+  offset: 0, 0
+  index: -1
+Thumbs_Up_L
+  rotate: true
+  xy: 1508, 9
+  size: 144, 261
+  orig: 144, 261
+  offset: 0, 0
+  index: -1
+Thumbs_Up_R
+  rotate: false
+  xy: 1311, 352
+  size: 132, 253
+  orig: 132, 253
+  offset: 0, 0
+  index: -1
+White_Clap
+  rotate: false
+  xy: 1576, 155
+  size: 413, 412
+  orig: 528, 528
+  offset: 51, 64
+  index: -1
+Head_Back
+  rotate: false
+  xy: 1452, 569
+  size: 435, 400
+  orig: 463, 402
+  offset: 6, 1
+  index: -1

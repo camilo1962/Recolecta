@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0184af30f7e2c5e47bc4c761fe45c408
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3771017059851545069
+    second: arrow command
+  - first:
+      213: 4912274464578446748
+    second: background.9
+  - first:
+      213: -2773942621379175653
+    second: bonus background
+  - first:
+      213: 3753217611515908345
+    second: chest collector
+  - first:
+      213: 4148788699199594261
+    second: dialog dimmer background.9
+  - first:
+      213: 3539817576791243831
+    second: dialog quit button
+  - first:
+      213: -2632754177724468540
+    second: dialog retry button
+  - first:
+      213: -8428288572180754502
+    second: element book
+  - first:
+      213: -1483853958552037054
+    second: element boxing glove
+  - first:
+      213: -5669014800758193434
+    second: element circle background
+  - first:
+      213: -6456618603714277067
+    second: element coin
+  - first:
+      213: 5730304103780140548
+    second: element diamond
+  - first:
+      213: 328556800612283805
+    second: element energy
+  - first:
+      213: 3994161627546058346
+    second: gameplay header background.9
+  - first:
+      213: 4824888213270500511
+    second: high score title decoration
+  - first:
+      213: 6973341628372400424
+    second: logo
+  - first:
+      213: 2931661813698972944
+    second: pause button background.9
+  - first:
+      213: 3445765809490184793
+    second: pause continue button
+  - first:
+      213: 4445269463091739649
+    second: pause quit button
+  - first:
+      213: 3932622826517397956
+    second: play button
+  - first:
+      213: 8120010003262931715
+    second: score background
+  - first:
+      213: -8879030321627994519
+    second: timer icon
+  - first:
+      213: 5038393065952720449
+    second: ui atlas_0
+  - first:
+      213: -3433031344315689024
+    second: ui atlas_1
+  - first:
+      213: 2375990996805325438
+    second: ui atlas_2
+  - first:
+      213: -7583093683844475843
+    second: ui atlas_3
+  - first:
+      213: 1898323470269135912
+    second: ui atlas_4
+  - first:
+      213: 2752117450504776690
+    second: ui atlas_5
+  - first:
+      213: -7105536563293864786
+    second: ui atlas_6
+  - first:
+      213: -962937272680067203
+    second: ui atlas_7
+  - first:
+      213: -2208231475922098347
+    second: ui atlas_8
+  - first:
+      213: 6377933722430442136
+    second: ui atlas_9
+  - first:
+      213: 693126740613572062
+    second: ui atlas_10
+  - first:
+      213: 1209909158780437614
+    second: ui atlas_11
+  - first:
+      213: -4806542591375019496
+    second: ui atlas_12
+  - first:
+      213: -8887467850008223407
+    second: ui atlas_13
+  - first:
+      213: 5548222703932579545
+    second: ui atlas_14
+  - first:
+      213: -752201726153698497
+    second: ui atlas_15
+  - first:
+      213: 3936662871649568436
+    second: ui atlas_16
+  - first:
+      213: -9179867253785100325
+    second: ui atlas_17
+  - first:
+      213: -1100490107490735071
+    second: ui atlas_18
+  - first:
+      213: 162713896930830959
+    second: ui atlas_19
+  - first:
+      213: 6223169405696597202
+    second: ui atlas_20
+  - first:
+      213: -7783800542391435396
+    second: ui atlas_21
+  - first:
+      213: 446620857251533987
+    second: ui atlas_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arrow command
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 145
+        width: 147
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3165c99b6f7aaabc0800000000000000
+      internalID: -3771017059851545069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background.9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 8
+        height: 946
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95ab646997eb2440800000000000000
+      internalID: 4912274464578446748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonus background
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 298
+        width: 322
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bd06102e9f089d0800000000000000
+      internalID: -2773942621379175653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest collector
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 432
+        width: 361
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f05523488b161430800000000000000
+      internalID: 3753217611515908345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog dimmer background.9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1014
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 2, z: 2, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f52f73755739930800000000000000
+      internalID: 4148788699199594261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog quit button
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 39
+        width: 441
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c7352d455ff1130800000000000000
+      internalID: 3539817576791243831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dialog retry button
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 187
+        width: 440
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2bec73604967bd0800000000000000
+      internalID: -2632754177724468540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: element book
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 165
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf8ea6d234b80b80800000000000000
+      internalID: -8428288572180754502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: element boxing glove
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 137
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249d2fdbfaa486be0800000000000000
+      internalID: -1483853958552037054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: element circle background
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 36
+        width: 142
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2406e031d9351b0800000000000000
+      internalID: -5669014800758193434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: element coin
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 905
+        width: 115
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5319e6ba69b7566a0800000000000000
+      internalID: -6456618603714277067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: element diamond
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 773
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40647c0d831268f40800000000000000
+      internalID: 5730304103780140548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: element energy
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 644
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95b80d5ba44f8400800000000000000
+      internalID: 328556800612283805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameplay header background.9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 828
+        width: 8
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ef06996dc1e6730800000000000000
+      internalID: 3994161627546058346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: high score title decoration
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 753
+        width: 622
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9415f0444275f240800000000000000
+      internalID: 4824888213270500511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 509
+        width: 552
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829b490c34946c060800000000000000
+      internalID: 6973341628372400424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pause button background.9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 713
+        width: 9
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 78, z: 2, w: 78}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dca1f03ea5fa820800000000000000
+      internalID: 2931661813698972944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pause continue button
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 826
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a49dd4fb1d1df20800000000000000
+      internalID: 3445765809490184793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pause quit button
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 624
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c797e4605c0bd30800000000000000
+      internalID: 4445269463091739649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play button
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 782
+        width: 652
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c18922ff9b739630800000000000000
+      internalID: 3932622826517397956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: score background
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 335
+        width: 538
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3030b19831210b070800000000000000
+      internalID: 8120010003262931715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timer icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e07137f857c480800000000000000
+      internalID: -8879030321627994519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d9afc1fd603ee034dbc70545f1c48a54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      play button: 3932622826517397956
+      background.9: 4912274464578446748
+      dialog dimmer background.9: 4148788699199594261
+      arrow command: -3771017059851545069
+      logo: 6973341628372400424
+      pause quit button: 4445269463091739649
+      score background: 8120010003262931715
+      timer icon: -8879030321627994519
+      dialog retry button: -2632754177724468540
+      element diamond: 5730304103780140548
+      element boxing glove: -1483853958552037054
+      element circle background: -5669014800758193434
+      dialog quit button: 3539817576791243831
+      element coin: -6456618603714277067
+      gameplay header background.9: 3994161627546058346
+      chest collector: 3753217611515908345
+      pause continue button: 3445765809490184793
+      pause button background.9: 2931661813698972944
+      element book: -8428288572180754502
+      bonus background: -2773942621379175653
+      element energy: 328556800612283805
+      high score title decoration: 4824888213270500511
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
